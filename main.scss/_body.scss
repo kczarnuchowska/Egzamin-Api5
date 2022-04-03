@@ -1,0 +1,33 @@
+.form{
+    background-color: rgb(248, 252, 140);
+    padding: 10px 50px;
+    width: 50%;
+}
+
+.h2 {
+    color: $h2;
+}
+
+.h3 {
+    color: $h3;
+}
+
+.btn {
+    color: $btn;
+    background-color: $backColor;
+    font-size: $fontSize ;
+}
+
+.form-text {
+    color: $h3;
+}
+
+.form-check-label {
+    font-size: $fontSize;
+    color: $h3;
+}
+
+.form-label {
+    color: $h2;
+    font-size: $fontSizeMain;
+}
